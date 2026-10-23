@@ -71,7 +71,7 @@ The exact labels and paths must match the configuration used in the deployment.
 - Checking service status and recovering the stack after a shutdown.
 
 ## Report
-See [`Cowrie_Honeypot_Log_Monitoring_Sanitized.pdf`](Cowrie_Honeypot_Log_Monitoring_Sanitized.pdf) for the detailed deployment notes and verification steps.
+See [`Cowrie_Honeypot_Log_Monitoring_Project.pdf`](https://github.com/Nandagopalan2000/cowrie-honeypot-log-monitoring/blob/main/Cowrie_Honeypot_Log_Monitoring_Project.pdf) for the detailed deployment notes and verification steps.
 
 ## Security Notes
 - Never commit real passwords, API keys, tokens, private IP addresses, or sensitive hostnames.
